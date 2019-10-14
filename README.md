@@ -1,2 +1,2 @@
 # my-algorithm-notes
-Including JavaScript solution (maybe also Python) with explaination
+The C solution based on the book _Data Structures and Algorithm Analysis in C_
